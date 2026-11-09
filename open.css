@@ -1,0 +1,58 @@
+nav {
+    text-align: left;
+    font-size: 30px;
+    padding: 30px;
+    border-radius: 40px;
+    margin: 20px;
+    color: #f0f8f0;
+    background-color: #00ffff;
+    border-radius: 70px;
+    margin: 60px;
+    margin-bottom: 30px;
+}
+header {
+    text-align: left;
+    font-size: 40px;
+    background-color: blue;
+    color: red;
+    border-radius: 50px;
+}
+#home {
+    text-align: left;
+    font-size: 30px;
+    background-color: aqua;
+    color: #ff0000;
+    border-radius: 60px;
+    margin: 70px;
+    padding: 60px;
+}
+#about{
+    text-align: center;
+    font-size: 30px;
+    background-color: bisque;
+    color: #0000ff;
+    border-radius: 60px;
+    margin: 70px;
+    padding: 5cap;
+}
+body {
+    text-align: center;
+    font-size: 30px;
+    background-color: whitesmoke;
+    color: #ff0000;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#contact {
+    text-align: center;
+    font-size: 30px;
+    background-color: #00ffff;
+    color: #ff0000;
+    border-radius: 60px;
+    margin: 70px;
+}
+.button {
+    background-color: red;
+    color:bisque ;
+    text-align: center;
+    border-radius: 30px;
+}
